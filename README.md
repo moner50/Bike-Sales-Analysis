@@ -1,6 +1,6 @@
-**Bike Buyers Analysis**
+****Bike Buyers Analysis****
 
-*Introduction*
+**Introduction**
 
 This project analyzes a dataset of bike buyers to identify patterns and factors influencing purchasing decisions. The dataset consists of 1,026 records with demographic and lifestyle attributes such as income, occupation, education, and home ownership status. The key objective is to determine the characteristics of individuals who are more likely to purchase a bike.
 
