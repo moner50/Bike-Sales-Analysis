@@ -39,7 +39,4 @@ Based on the findings, marketing strategies can be tailored towards professional
 
 This study provides valuable insights for businesses targeting potential bike buyers and urban planners promoting sustainable commuting.
 
-## How to Use
-1. Clone the repository:
-   ```sh
-   git clone <repository-url>
+
